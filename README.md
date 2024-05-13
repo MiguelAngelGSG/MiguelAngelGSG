@@ -1,9 +1,6 @@
-About me
+- About me
 
-<!--
-**MiguelAngelGSG/MiguelAngelGSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently studying P1 Full Stack + DevOps - Don Bosco
 - 🌱 I’m currently learning EVERYTHING, I love learning
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Most male cats are left-handed

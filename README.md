@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/MiguelAngelGSG/MiguelAngelGSG/assets/169648041/7635d958-3e53-49ec-b982-bc01164284ef)
+
+ 
  👩‍🎓 About me
   
 /////////////////////////////////////////////////////////////////////////////
